@@ -3,3 +3,4 @@ beautifulsoup4
 pandas
 tqdm
 scikit-learn
+lxml
